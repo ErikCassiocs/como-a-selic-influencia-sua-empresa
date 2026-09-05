@@ -8,8 +8,6 @@
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ErikCassiocs/como-a-selic-influencia-sua-empresa/blob/main/selic_alta_destroi_empresas_endividadas.ipynb)
 
-> ⬆️ Troque `SEU_USUARIO/SEU_REPO` pelo caminho real deste repositório assim que subir o `.ipynb`, para o botão abrir direto no Colab.
-
 ---
 
 ## 🎯 Sobre o projeto
